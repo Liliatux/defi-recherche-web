@@ -16,4 +16,14 @@ Leurs tailles est de 32 bits.
 "http://ipv6pourtous.free.fr/faq/"
 
 
+## Question 35:
 
+- Combien coûte un serveur pour héberger mon site perso ?
+> Il n'est pas forcément payant on peut l'héberger à domicile ou gratuitement via des hébergeurs comme Webou.net.
+> Pour les hébergeurs payant il faut compter, en général, entre 4 et 100 euros/mois selon la place en Go du site internet et les hébergeurs.
+
+"https://openclassrooms.com/forum/sujet/heberger-votre-site-web-gratuitement-64210"
+"http://www.webou.net/"
+"https://www.000webhost.com/"
+"https://www.alwaysdata.com/en/"
+"http://www.arsys.fr/hebergement/tarifs-web.htm"
