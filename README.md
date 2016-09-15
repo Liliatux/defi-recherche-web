@@ -59,6 +59,18 @@ Leurs tailles est de 32 bits.
 [Opensourceguide](http://www.open-source-guide.com/Actualites/Les-langages-de-programmation-les-plus-populaires)
 
 
+##Question 38:
+
+- Quelles sont les différences entre un software open-source et un software free ?
+
+> Un software open source est un logiciels dont la licence respecte des critères préciséments établis par l'Open source Initiative. C'est un logiciel avec un code que n'importe qui peut voir, modifier et améliorer. Il peut être payant et correspond à une méthodologie de développement.
+
+> Alors qu'un software free est un logiciel basé sur un mouvement social pronant la gratuité des logiciels
+
+[Wiki](https://fr.wikipedia.org/wiki/Open_source)
+[Opensource](https://opensource.com/resources/what-open-source)
+[gnu](https://www.gnu.org/philosophy/free-software-for-freedom.fr.html)
+
 
 
 
