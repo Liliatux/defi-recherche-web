@@ -27,3 +27,14 @@ Leurs tailles est de 32 bits.
 "https://www.000webhost.com/"
 "https://www.alwaysdata.com/en/"
 "http://www.arsys.fr/hebergement/tarifs-web.htm"
+
+## Question 36:
+
+- Qu’est-ce que le Cowboy coding ?
+> c'est une discipline en développement logiciel qui permet aux programmeurs d'avoir un contrôle de développement sur tout le processus.
+> Cowboy signifie dans ici de coder en autonomie tout le long du processus de programation du logiciel.
+
+"http://searchsoftwarequality.techtarget.com/definition/cowboy-coding"
+"https://en.wikipedia.org/wiki/Cowboy_coding"
+
+
